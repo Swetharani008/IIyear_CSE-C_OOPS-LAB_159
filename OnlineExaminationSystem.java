@@ -126,3 +126,56 @@ System.out.println("=================================");
 sc.close(); 
 } 
 }
+
+
+OUTPUT: 
+
+================================ 
+ONLINE EXAMINATION SYSTEM 
+================================ 
+Enter Student Name: Swetha 
+Student Name : Swetha 
+========== ONLINE EXAM ========== 
+Which language is mainly used for OOP? 
+1. HTML 
+2. Java 
+3. SQL 
+4. CSS 
+Enter your answer (1-4): 2 
+Correct Answer! 
+Which keyword is used for inheritance in Java? 
+1. this 
+2. super 
+3. extends 
+4. static 
+Enter your answer (1-4): 3 
+Correct Answer! 
+Which concept hides data? 
+1. Inheritance 
+2. Encapsulation 
+3. Polymorphism 
+4. Compilation 
+Enter your answer (1-4): 2 
+Correct Answer! 
+Which keyword creates an object? 
+1. new 
+2. class 
+3. void 
+4. return 
+Enter your answer (1-4): 1 
+Correct Answer! 
+Which method is the starting point of Java program? 
+1. start() 
+2. run() 
+3. main() 
+4. execute() 
+Enter your answer (1-4): 3 
+Correct Answer! 
+========== EXAM RESULT ========== 
+Student Name : Swetha 
+Total Marks  : 5 
+Score        
+: 5 
+Result       
+: PASS 
+=================================
