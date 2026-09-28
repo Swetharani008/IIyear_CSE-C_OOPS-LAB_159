@@ -33,3 +33,21 @@ class EX_NO_6
         System.out.println("Hash Code     : " + System.identityHashCode(d));
     }
 }
+
+OUTPUT:
+
+Before Modification
+Integer Value : 100
+Hash Code     : 1510467688
+
+After Modification
+Integer Value : 150
+Hash Code     : 1995265320
+
+Before Modification
+Double Value  : 25.5
+Hash Code     : 746292446
+
+After Modification
+Double Value  : 51.0
+Hash Code     : 1072591677
