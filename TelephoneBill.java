@@ -51,3 +51,31 @@ public static void main(String[]args) {
    } 
   }
 }
+
+OUTPUT:
+
+Enter Customer Number: 101 
+Enter Customer Name: Ravi 
+Enter Previous Month Call Duration: 500
+Enter Current Month Call Duration: 650
+Enter Connection Type (prepaid/postpaid): prepaid
+
+TelephoneBill
+Customer Number : 101
+Customer Name   : Ravi
+Call Minutes    : 150
+Connection Type : prepaid
+Bill Amount     : Rs. 175.0
+
+Enter Customer Number: 102 
+Enter Customer Name: Priya 
+Enter Previous Month Call Duration: 1000 
+Enter Current Month Call Duration: 1250 
+Enter Connection Type (prepaid/postpaid): postpaid
+
+TelephoneBill
+Customer Number : 102
+Customer Name   : Priya
+Call Minutes    : 250
+Connection Type : postpaid
+Bill Amount     : Rs. 287.5
