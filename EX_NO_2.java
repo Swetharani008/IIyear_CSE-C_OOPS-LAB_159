@@ -86,3 +86,18 @@ public class EX_NO_2 {
         sc.close();
     }
 }
+
+OUTPUT:
+
+Choose input temperature scale: 1 
+Enter temperature value: 25
+
+===== Temperature Converter ===== 
+1. Celsius 
+2. Fahrenheit 
+3. Kelvin 
+Choose input temperature scale: 1 
+Enter temperature value: 25 
+Fahrenheit = 77.0 
+Kelvin = 298.15
+
