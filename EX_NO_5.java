@@ -138,3 +138,63 @@ public class EX_NO_5
     }
 }
 
+OUTPUT:
+
+*** CIRCULAR QUEUE ***
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the element: 10
+
+*** CIRCULAR QUEUE ***
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the element: 20
+
+*** CIRCULAR QUEUE ***
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter the element: 30
+
+*** CIRCULAR QUEUE ***
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 3
+Queue Elements:
+10 20 30
+
+*** CIRCULAR QUEUE ***
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 2
+Deleted Element: 10
+
+*** CIRCULAR QUEUE ***
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 3
+Queue Elements:
+20 30
+
+*** CIRCULAR QUEUE ***
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 4
+Program Ended
+
