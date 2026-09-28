@@ -73,3 +73,61 @@ public class  EX_NO_9{
 			sc.close();   
 		} 
 }
+
+OUTPUT:
+
+--- STRING OPERATIONS ---
+1. Append
+2. Insert
+3. Search
+4. Display Starting Letter
+5. Display All
+6. Exit
+Enter your choice: 1
+Enter string: Apple
+String added successfully.
+
+--- STRING OPERATIONS ---
+1. Append
+2. Insert
+3. Search
+4. Display Starting Letter
+5. Display All
+6. Exit
+Enter your choice: 1
+Enter string: Banana
+String added successfully.
+
+--- STRING OPERATIONS ---
+1. Append
+2. Insert
+3. Search
+4. Display Starting Letter
+5. Display All
+6. Exit
+Enter your choice: 2
+Enter index: 1
+Enter string: Mango
+String inserted successfully.
+
+--- STRING OPERATIONS ---
+1. Append
+2. Insert
+3. Search
+4. Display Starting Letter
+5. Display All
+6. Exit
+Enter your choice: 5
+ArrayList: [Apple, Mango, Banana]
+
+--- STRING OPERATIONS ---
+1. Append
+2. Insert
+3. Search
+4. Display Starting Letter
+5. Display All
+6. Exit
+Enter your choice: 3
+Enter string to search: Mango
+String found.
+
