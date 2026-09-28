@@ -97,3 +97,25 @@ public class EX_NO_4{
         sc.close();
     }
 }
+
+OUTPUT:
+
+Enter Member ID: 101
+Enter Name: Arun Kumar
+Enter Email: arun@gmail.com
+Enter Phone: 9876543210
+
+Select Member Type
+1. Student
+2. Faculty
+3. External
+Enter Choice: 1
+
+----- Student Member -----
+Member ID : 101
+Name      : Arun Kumar
+Email     : arun@gmail.com
+Phone     : 9876543210
+Borrowing Limit      : 5 Books
+Penalty Per Day      : Rs.2
+Annual Membership Fee: Rs.200
