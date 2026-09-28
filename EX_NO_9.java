@@ -131,3 +131,13 @@ Enter your choice: 3
 Enter string to search: Mango
 String found.
 
+---STRING OPERATIONS ---
+1. Append 
+2. Insert 
+3. Search 
+4. Display Starting Letter 
+5. Display All 
+6. Exit 
+Enter your choice: 6 
+Program terminated.
+
