@@ -166,3 +166,22 @@ public class EX_NO_11 {
 		super.stop(); 
 	} 
 }
+
+OUTPUT:
+
+Database connection successful
+
+Student created successfully.
+Student created successfully.
+
+ID: 1, Name: Arun, Age: 20, Course: Java
+ID: 2, Name: Priya, Age: 21, Course: Python
+
+Student updated successfully.
+
+ID: 1, Name: Arun, Age: 20, Course: Java
+ID: 2, Name: Priya Sharma, Age: 22, Course: Python
+
+Student deleted successfully.
+
+ID: 2, Name: Priya Sharma, Age: 22, Course: Python
