@@ -23,6 +23,16 @@ public static void main(String[] args) {
 		System.out.println("Invalid directory path.");
 	 } 
 	sc.close();
-            }
+}
+
+OUTPUT:
+
+Enter directory path: C:\Users\Documents 
+Files in the directory: 
+file1.txt 
+file2.txt 
+program.java 
+notes.docx
+	
 }
 
