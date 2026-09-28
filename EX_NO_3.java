@@ -112,3 +112,24 @@ public class EX_NO_3 {
         sc.close();
     }
 }
+
+OUTPUT:
+
+Enter Vehicle Number: TN01AB1234
+Enter Model: Swift
+Enter Manufacturer: Maruti Suzuki
+Enter Vehicle Price: 800000
+
+1. Car
+2. Bike
+3. Truck
+Enter Choice: 1
+
+***** CAR BILL *****
+Vehicle Number : TN01AB1234
+Model          : Swift
+Manufacturer   : Maruti Suzuki
+Price          : 800000.0
+Road Tax       : 40000.0
+Insurance      : 10000.0
+Total Cost     : 850000.0
