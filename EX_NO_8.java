@@ -58,3 +58,19 @@ Public class EX_NO_8{
 	Cancellation.start();    
        } 
 }
+
+OUTPUT:
+
+Ticket booked successfully.
+Available seats: 1
+
+Ticket booked successfully.
+Available seats: 0
+
+No seats available. Booking thread is waiting...
+
+Ticket cancelled successfully.
+Available seats: 1
+
+Ticket booked successfully.
+Available seats: 0
