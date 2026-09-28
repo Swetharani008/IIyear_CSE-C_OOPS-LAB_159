@@ -44,3 +44,13 @@ Class EX_NO_7 {
 		System.out.println(“All threads completed.”);    
 	  } 
 }
+
+OUTPUT:
+
+Original Array: [45, 12, 78, 23, 56, 89, 34, 67, 10, 91]
+
+Ascending Order: [10, 12, 23, 34, 45, 56, 67, 78, 89, 91]
+
+Descending Order: [91, 89, 78, 67, 56, 45, 34, 23, 12, 10]
+
+All threads completed.
